@@ -1,16 +1,117 @@
-# React + Vite
+Here’s a **clean, simple, and professional `README.md`** you can directly use for your React **TODO App**.
+It’s **interview-friendly** and beginner-clear.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 📌 TODO App (React)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A simple and user-friendly **Todo Application** built using **React**.
+This app helps users add, manage, and delete daily tasks efficiently.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features
 
-## Expanding the ESLint configuration
+* ➕ Add new tasks
+* 🗑️ Delete tasks
+* 📋 View list of todos
+* ⚡ Fast and responsive UI
+* ♻️ Component-based architecture
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+* **React**
+* **JavaScript (ES6)**
+* **HTML5**
+* **CSS3**
+
+---
+
+## 📂 Project Setup
+
+Follow the steps below to run the project locally:
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/mohittondre/TODO-APP.git
+```
+
+### 2️⃣ Navigate to the project folder
+
+```bash
+cd TODO-APP
+```
+
+### 3️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 4️⃣ Start the development server
+
+```bash
+npm start
+```
+
+The app will run at:
+👉 `http://localhost:3000`
+
+---
+
+## 📁 Folder Structure (Basic)
+
+```
+TODO-APP/
+├── src/
+│   ├── components/
+│   ├── App.js
+│   └── index.js
+├── public/
+├── package.json
+└── README.md
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+* Understanding React components
+* State management using `useState`
+* Handling user events
+* Rendering lists dynamically
+
+---
+
+## 📌 Future Improvements
+
+* ✏️ Edit tasks
+* ✅ Mark tasks as completed
+* 💾 Save todos using localStorage
+* 🎨 Improve UI design
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork the repository and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+### 👨‍💻 Author
+
+**Mohit Tondre**
+GitHub: [https://github.com/mohittondre](https://github.com/mohittondre)
+
+---
+
