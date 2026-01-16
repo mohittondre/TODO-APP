@@ -1,8 +1,3 @@
-Here’s a **clean, simple, and professional `README.md`** you can directly use for your React **TODO App**.
-It’s **interview-friendly** and beginner-clear.
-
----
-
 ## 📌 TODO App (React)
 
 A simple and user-friendly **Todo Application** built using **React**.
